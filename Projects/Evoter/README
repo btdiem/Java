@@ -1,3 +1,8 @@
 The project includes 2 parts: 
 1. Backend server side :process the requests and write back the response
 2. Frontend: Android application that allows users to send their votes in realtime and to see the results
+Requirements:
+Java >= 1.6
+JDBC
+MySQL
+
