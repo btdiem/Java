@@ -1,3 +1,5 @@
-The project provides one of solution for Travelling sale man problem
-Generate a list of cities with a certain cost from one city to another. 
-The result will output the possible shortest route from starting point from the ending point.
+- The project provides one of solution for Travelling sale man problem
+- Generate a list of cities with a certain cost from one city to another. 
+- The result will output the possible shortest route from starting point from the ending point.
+- The project implements Graph algorimth to find the route, use the cross validation/mutation to generate possible routes 
+and develop paralleling programming to maxilize CPU ulities and to win the running time
