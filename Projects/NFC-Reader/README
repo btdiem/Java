@@ -1,2 +1,3 @@
 
 This java project will read data from tikitag and NFC reader embedeed in Android device
+Requirements: Java >= 1.6, Maven
